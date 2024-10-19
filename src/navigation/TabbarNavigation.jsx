@@ -28,7 +28,7 @@ function TabbarNavigation() {
               iconName = 'search';
               break;
             case 'Events':
-              IconComponent = Icon; // Use FontAwesome for Events
+              IconComponent = Icon;
               iconName = 'calendar';
               break;
             case 'Favourites':
