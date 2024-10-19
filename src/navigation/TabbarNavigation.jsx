@@ -24,7 +24,7 @@ function TabbarNavigation() {
           // Assign the appropriate icon name and library
           switch (route.name) {
             case 'Search':
-              IconComponent = Feather; // Use Feather for Search
+              IconComponent = Feather;
               iconName = 'search';
               break;
             case 'Events':
